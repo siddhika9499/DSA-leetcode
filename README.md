@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/siddhika9499/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/0682-baseball-game) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/siddhika9499/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/siddhika9499/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddhika9499/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/0682-baseball-game) |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/siddhika9499/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/siddhika9499/DSA-leetcode/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
@@ -81,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/siddhika9499/DSA-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/siddhika9499/DSA-leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/siddhika9499/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
