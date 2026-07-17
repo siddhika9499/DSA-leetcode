@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/siddhika9499/DSA-leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/siddhika9499/DSA-leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/siddhika9499/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0482-license-key-formatting](https://github.com/siddhika9499/DSA-leetcode/tree/master/0482-license-key-formatting) |
 | [0504-base-7](https://github.com/siddhika9499/DSA-leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/siddhika9499/DSA-leetcode/tree/master/0520-detect-capital) |
 | [0844-backspace-string-compare](https://github.com/siddhika9499/DSA-leetcode/tree/master/0844-backspace-string-compare) |
