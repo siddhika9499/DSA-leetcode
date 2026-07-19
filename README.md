@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/siddhika9499/DSA-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/siddhika9499/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddhika9499/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0227-basic-calculator-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0682-baseball-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/siddhika9499/DSA-leetcode/tree/master/0844-backspace-string-compare) |
 ## Simulation
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/siddhika9499/DSA-leetcode/tree/master/0087-scramble-string) |
+| [0227-basic-calculator-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/siddhika9499/DSA-leetcode/tree/master/0257-binary-tree-paths) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddhika9499/DSA-leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/siddhika9499/DSA-leetcode/tree/master/0412-fizz-buzz) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0412-fizz-buzz](https://github.com/siddhika9499/DSA-leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/siddhika9499/DSA-leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/siddhika9499/DSA-leetcode/tree/master/0504-base-7) |
