@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/siddhika9499/DSA-leetcode/tree/master/0413-arithmetic-slices) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/siddhika9499/DSA-leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/siddhika9499/DSA-leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1025-divisor-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -226,9 +227,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/siddhika9499/DSA-leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/siddhika9499/DSA-leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/siddhika9499/DSA-leetcode/tree/master/0504-base-7) |
+| [1025-divisor-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1025-divisor-game) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0063-unique-paths-ii) |
 | [0221-maximal-square](https://github.com/siddhika9499/DSA-leetcode/tree/master/0221-maximal-square) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
