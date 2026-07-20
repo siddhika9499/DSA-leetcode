@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/siddhika9499/DSA-leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/siddhika9499/DSA-leetcode/tree/master/0221-maximal-square) |
 | [0413-arithmetic-slices](https://github.com/siddhika9499/DSA-leetcode/tree/master/0413-arithmetic-slices) |
 | [0480-sliding-window-median](https://github.com/siddhika9499/DSA-leetcode/tree/master/0480-sliding-window-median) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhika9499/DSA-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/siddhika9499/DSA-leetcode/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/siddhika9499/DSA-leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/siddhika9499/DSA-leetcode/tree/master/0221-maximal-square) |
 | [0413-arithmetic-slices](https://github.com/siddhika9499/DSA-leetcode/tree/master/0413-arithmetic-slices) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/siddhika9499/DSA-leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Monotonic Stack
@@ -226,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0063-unique-paths-ii) |
+| [0221-maximal-square](https://github.com/siddhika9499/DSA-leetcode/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
