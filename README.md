@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/siddhika9499/DSA-leetcode/tree/master/0844-backspace-string-compare) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/siddhika9499/DSA-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/siddhika9499/DSA-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Tree
 |  |
 | ------- |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1025-divisor-game) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
