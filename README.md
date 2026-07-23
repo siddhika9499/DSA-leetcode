@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/siddhika9499/DSA-leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/siddhika9499/DSA-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/siddhika9499/DSA-leetcode/tree/master/0748-shortest-completing-word) |
+| [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/siddhika9499/DSA-leetcode/tree/master/1260-shift-2d-grid) |
 | [1695-maximum-erasure-value](https://github.com/siddhika9499/DSA-leetcode/tree/master/1695-maximum-erasure-value) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/siddhika9499/DSA-leetcode/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
