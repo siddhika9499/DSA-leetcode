@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/siddhika9499/DSA-leetcode/tree/master/1260-shift-2d-grid) |
 | [1695-maximum-erasure-value](https://github.com/siddhika9499/DSA-leetcode/tree/master/1695-maximum-erasure-value) |
 | [3483-unique-3-digit-even-numbers](https://github.com/siddhika9499/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Stack
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/siddhika9499/DSA-leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/siddhika9499/DSA-leetcode/tree/master/0504-base-7) |
 | [1025-divisor-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1025-divisor-game) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Matrix
 |  |
 | ------- |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/siddhika9499/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
