@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/siddhika9499/DSA-leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/siddhika9499/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/siddhika9499/DSA-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/siddhika9499/DSA-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/siddhika9499/DSA-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/siddhika9499/DSA-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/siddhika9499/DSA-leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/siddhika9499/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/siddhika9499/DSA-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/siddhika9499/DSA-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/siddhika9499/DSA-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/siddhika9499/DSA-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/0658-find-k-closest-elements) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/siddhika9499/DSA-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/siddhika9499/DSA-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/siddhika9499/DSA-leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/siddhika9499/DSA-leetcode/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/0658-find-k-closest-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/siddhika9499/DSA-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/siddhika9499/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
@@ -293,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/siddhika9499/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/siddhika9499/DSA-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/siddhika9499/DSA-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
