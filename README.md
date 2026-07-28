@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/siddhika9499/DSA-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/siddhika9499/DSA-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/siddhika9499/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/siddhika9499/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/siddhika9499/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
