@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siddhika9499/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/siddhika9499/DSA-leetcode/tree/master/0413-arithmetic-slices) |
 | [0480-sliding-window-median](https://github.com/siddhika9499/DSA-leetcode/tree/master/0480-sliding-window-median) |
+| [0486-predict-the-winner](https://github.com/siddhika9499/DSA-leetcode/tree/master/0486-predict-the-winner) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhika9499/DSA-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/0658-find-k-closest-elements) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/siddhika9499/DSA-leetcode/tree/master/0221-maximal-square) |
 | [0413-arithmetic-slices](https://github.com/siddhika9499/DSA-leetcode/tree/master/0413-arithmetic-slices) |
+| [0486-predict-the-winner](https://github.com/siddhika9499/DSA-leetcode/tree/master/0486-predict-the-winner) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/siddhika9499/DSA-leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/siddhika9499/DSA-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1025-divisor-game) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0412-fizz-buzz](https://github.com/siddhika9499/DSA-leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/siddhika9499/DSA-leetcode/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/siddhika9499/DSA-leetcode/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/siddhika9499/DSA-leetcode/tree/master/0504-base-7) |
 | [0973-k-closest-points-to-origin](https://github.com/siddhika9499/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1025-divisor-game) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/siddhika9499/DSA-leetcode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1025-divisor-game) |
 ## Enumeration
 |  |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/siddhika9499/DSA-leetcode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/siddhika9499/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
