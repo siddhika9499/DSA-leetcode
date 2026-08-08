@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/siddhika9499/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/siddhika9499/DSA-leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/siddhika9499/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/siddhika9499/DSA-leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/siddhika9499/DSA-leetcode/tree/master/0221-maximal-square) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siddhika9499/DSA-leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/siddhika9499/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/siddhika9499/DSA-leetcode/tree/master/0844-backspace-string-compare) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/siddhika9499/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siddhika9499/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/0658-find-k-closest-elements) |
@@ -366,4 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/siddhika9499/DSA-leetcode/tree/master/3310-remove-methods-from-project) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/siddhika9499/DSA-leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/siddhika9499/DSA-leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
