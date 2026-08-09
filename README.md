@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/siddhika9499/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/siddhika9499/DSA-leetcode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
 | [1695-maximum-erasure-value](https://github.com/siddhika9499/DSA-leetcode/tree/master/1695-maximum-erasure-value) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/siddhika9499/DSA-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
 ## Monotonic Stack
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/siddhika9499/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/siddhika9499/DSA-leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
 ## Enumeration
 |  |
@@ -360,10 +365,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
 ## Graph Theory
 |  |
