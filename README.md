@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/siddhika9499/DSA-leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/siddhika9499/DSA-leetcode/tree/master/0942-di-string-match) |
 | [0973-k-closest-points-to-origin](https://github.com/siddhika9499/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/siddhika9499/DSA-leetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/siddhika9499/DSA-leetcode/tree/master/0942-di-string-match) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/siddhika9499/DSA-leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/siddhika9499/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0748-shortest-completing-word](https://github.com/siddhika9499/DSA-leetcode/tree/master/0748-shortest-completing-word) |
 | [0844-backspace-string-compare](https://github.com/siddhika9499/DSA-leetcode/tree/master/0844-backspace-string-compare) |
+| [0942-di-string-match](https://github.com/siddhika9499/DSA-leetcode/tree/master/0942-di-string-match) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/siddhika9499/DSA-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/siddhika9499/DSA-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/siddhika9499/DSA-leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/siddhika9499/DSA-leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/siddhika9499/DSA-leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/siddhika9499/DSA-leetcode/tree/master/0942-di-string-match) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/siddhika9499/DSA-leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/siddhika9499/DSA-leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
