@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/siddhika9499/DSA-leetcode/tree/master/1510-stone-game-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/siddhika9499/DSA-leetcode/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Matrix
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/siddhika9499/DSA-leetcode/tree/master/1510-stone-game-iv) |
 ## Enumeration
 |  |
 | ------- |
@@ -367,11 +370,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/siddhika9499/DSA-leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/siddhika9499/DSA-leetcode/tree/master/1510-stone-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
@@ -384,4 +389,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/siddhika9499/DSA-leetcode/tree/master/0075-sort-colors) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/siddhika9499/DSA-leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/siddhika9499/DSA-leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
