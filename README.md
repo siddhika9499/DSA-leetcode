@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/siddhika9499/DSA-leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/siddhika9499/DSA-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/siddhika9499/DSA-leetcode/tree/master/0748-shortest-completing-word) |
+| [0860-lemonade-change](https://github.com/siddhika9499/DSA-leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/siddhika9499/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/siddhika9499/DSA-leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/siddhika9499/DSA-leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/siddhika9499/DSA-leetcode/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/siddhika9499/DSA-leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/siddhika9499/DSA-leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/siddhika9499/DSA-leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
