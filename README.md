@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/siddhika9499/DSA-leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siddhika9499/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/siddhika9499/DSA-leetcode/tree/master/0413-arithmetic-slices) |
+| [0455-assign-cookies](https://github.com/siddhika9499/DSA-leetcode/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/siddhika9499/DSA-leetcode/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/siddhika9499/DSA-leetcode/tree/master/0486-predict-the-winner) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhika9499/DSA-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siddhika9499/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/siddhika9499/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/siddhika9499/DSA-leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/siddhika9499/DSA-leetcode/tree/master/0844-backspace-string-compare) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/siddhika9499/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siddhika9499/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/siddhika9499/DSA-leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/siddhika9499/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/siddhika9499/DSA-leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/siddhika9499/DSA-leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/siddhika9499/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/siddhika9499/DSA-leetcode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
