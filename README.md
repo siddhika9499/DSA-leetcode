@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/siddhika9499/DSA-leetcode/tree/master/0942-di-string-match) |
 | [0973-k-closest-points-to-origin](https://github.com/siddhika9499/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/siddhika9499/DSA-leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/siddhika9499/DSA-leetcode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/siddhika9499/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/siddhika9499/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/siddhika9499/DSA-leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/siddhika9499/DSA-leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siddhika9499/DSA-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/siddhika9499/DSA-leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/siddhika9499/DSA-leetcode/tree/master/0942-di-string-match) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/siddhika9499/DSA-leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/siddhika9499/DSA-leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/siddhika9499/DSA-leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
