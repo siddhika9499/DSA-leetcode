@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
 | [1695-maximum-erasure-value](https://github.com/siddhika9499/DSA-leetcode/tree/master/1695-maximum-erasure-value) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/siddhika9499/DSA-leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siddhika9499/DSA-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/siddhika9499/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/3731-find-missing-elements) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/siddhika9499/DSA-leetcode/tree/master/0748-shortest-completing-word) |
 | [1695-maximum-erasure-value](https://github.com/siddhika9499/DSA-leetcode/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/siddhika9499/DSA-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siddhika9499/DSA-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/siddhika9499/DSA-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/siddhika9499/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/siddhika9499/DSA-leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siddhika9499/DSA-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/siddhika9499/DSA-leetcode/tree/master/3731-find-missing-elements) |
 ## Rolling Hash
