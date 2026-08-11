@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/siddhika9499/DSA-leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/siddhika9499/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0134-gas-station](https://github.com/siddhika9499/DSA-leetcode/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/siddhika9499/DSA-leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/siddhika9499/DSA-leetcode/tree/master/0221-maximal-square) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/siddhika9499/DSA-leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/siddhika9499/DSA-leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/siddhika9499/DSA-leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/siddhika9499/DSA-leetcode/tree/master/0605-can-place-flowers) |
