@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/siddhika9499/DSA-leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/siddhika9499/DSA-leetcode/tree/master/1260-shift-2d-grid) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/siddhika9499/DSA-leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
 | [1695-maximum-erasure-value](https://github.com/siddhika9499/DSA-leetcode/tree/master/1695-maximum-erasure-value) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/siddhika9499/DSA-leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/siddhika9499/DSA-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/siddhika9499/DSA-leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/siddhika9499/DSA-leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/siddhika9499/DSA-leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siddhika9499/DSA-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/siddhika9499/DSA-leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/siddhika9499/DSA-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/siddhika9499/DSA-leetcode/tree/master/1323-maximum-69-number) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/siddhika9499/DSA-leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/siddhika9499/DSA-leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/siddhika9499/DSA-leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
