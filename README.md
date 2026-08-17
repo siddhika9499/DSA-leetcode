@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/siddhika9499/DSA-leetcode/tree/master/1260-shift-2d-grid) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/siddhika9499/DSA-leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/siddhika9499/DSA-leetcode/tree/master/1563-stone-game-v) |
 | [1695-maximum-erasure-value](https://github.com/siddhika9499/DSA-leetcode/tree/master/1695-maximum-erasure-value) |
 | [2029-stone-game-ix](https://github.com/siddhika9499/DSA-leetcode/tree/master/2029-stone-game-ix) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/siddhika9499/DSA-leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/siddhika9499/DSA-leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/siddhika9499/DSA-leetcode/tree/master/1563-stone-game-v) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/siddhika9499/DSA-leetcode/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/siddhika9499/DSA-leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/siddhika9499/DSA-leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/siddhika9499/DSA-leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/siddhika9499/DSA-leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/siddhika9499/DSA-leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/siddhika9499/DSA-leetcode/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
