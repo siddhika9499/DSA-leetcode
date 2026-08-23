@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/siddhika9499/DSA-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/siddhika9499/DSA-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/siddhika9499/DSA-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1927-sum-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1927-sum-game) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/siddhika9499/DSA-leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/siddhika9499/DSA-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/siddhika9499/DSA-leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/siddhika9499/DSA-leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/siddhika9499/DSA-leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddhika9499/DSA-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/siddhika9499/DSA-leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/siddhika9499/DSA-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/siddhika9499/DSA-leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/siddhika9499/DSA-leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/siddhika9499/DSA-leetcode/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/siddhika9499/DSA-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/siddhika9499/DSA-leetcode/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/siddhika9499/DSA-leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1927-sum-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/siddhika9499/DSA-leetcode/tree/master/2029-stone-game-ix) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/siddhika9499/DSA-leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/siddhika9499/DSA-leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
