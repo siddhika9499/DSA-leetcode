@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siddhika9499/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/siddhika9499/DSA-leetcode/tree/master/0051-n-queens) |
+| [0059-spiral-matrix-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/siddhika9499/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/siddhika9499/DSA-leetcode/tree/master/0134-gas-station) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/siddhika9499/DSA-leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/siddhika9499/DSA-leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/0682-baseball-game) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0063-unique-paths-ii) |
 | [0221-maximal-square](https://github.com/siddhika9499/DSA-leetcode/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siddhika9499/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
