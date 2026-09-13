@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/siddhika9499/DSA-leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/siddhika9499/DSA-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/siddhika9499/DSA-leetcode/tree/master/0748-shortest-completing-word) |
+| [0835-image-overlap](https://github.com/siddhika9499/DSA-leetcode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/siddhika9499/DSA-leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/siddhika9499/DSA-leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/siddhika9499/DSA-leetcode/tree/master/0881-boats-to-save-people) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0063-unique-paths-ii) |
 | [0221-maximal-square](https://github.com/siddhika9499/DSA-leetcode/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siddhika9499/DSA-leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0835-image-overlap](https://github.com/siddhika9499/DSA-leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/siddhika9499/DSA-leetcode/tree/master/1260-shift-2d-grid) |
 ## Brainteaser
 |  |
