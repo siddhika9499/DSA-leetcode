@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/siddhika9499/DSA-leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/siddhika9499/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/siddhika9499/DSA-leetcode/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/siddhika9499/DSA-leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/siddhika9499/DSA-leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/siddhika9499/DSA-leetcode/tree/master/0052-n-queens-ii) |
 | [0257-binary-tree-paths](https://github.com/siddhika9499/DSA-leetcode/tree/master/0257-binary-tree-paths) |
